@@ -18,10 +18,10 @@
   <p><span> <?php echo $date; ?> </span></p>
 
   <p><span><b>Coins</b></span></p>
-  <?php require_once('coins.php'); ?>
+  <?php require_once('app/coins.php'); ?>
 
   <p><span><b>Fiat</b></span></p>
-  <?php require_once('fiat.php'); ?>
+  <?php require_once('app/fiat.php'); ?>
 
  </div>
 </body>
