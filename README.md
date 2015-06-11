@@ -13,3 +13,5 @@ Bitcoin rates is the full decoded JSON from Bitstamps' API:
       https://www.bitstamp.net/api/ticker/
       
 Values in USD.
+  
+#### All this nicely formatted and regularly sent to your mailbox if you set a cron job like that.
